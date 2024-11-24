@@ -6,7 +6,7 @@
   <link href="https://universepanda.github.io/atom.xml" rel="self"/>
   
   <link href="https://universepanda.github.io/"/>
-  <updated>2024-11-23T09:24:49.900Z</updated>
+  <updated>2024-11-24T14:49:22.722Z</updated>
   <id>https://universepanda.github.io/</id>
   
   <author>
@@ -17,34 +17,101 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>First</title>
-    <link href="https://universepanda.github.io/blog/First/"/>
-    <id>https://universepanda.github.io/blog/First/</id>
-    <published>2024-11-23T09:24:49.000Z</published>
-    <updated>2024-11-23T09:24:49.900Z</updated>
+    <title>东周列国志</title>
+    <link href="https://universepanda.github.io/blog/5/"/>
+    <id>https://universepanda.github.io/blog/5/</id>
+    <published>2024-11-06T15:00:00.000Z</published>
+    <updated>2024-11-24T14:49:22.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>东周列国志</p><p>(明)冯梦龙  (清)蔡元放</p><span id="more"></span><p>故事从周幽王烽火戏诸侯开始到秦王扫六合结束，非常适合拿来说书。白话文读起来毫无压力，内容生动有趣。</p><hr><h3 id="Brief"><a href="#Brief" class="headerlink" title="Brief"></a>Brief</h3><p>Stories about East Zhou dynasty.It’s a book that suitable for PingShu performance.The story begins with Emperor You of Zhou lighting beacon fires to fool the feudal lords and ends with the uprising led by Chen Sheng and Wu Guang. </p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;东周列国志&lt;/p&gt;
+&lt;p&gt;(明)冯梦龙  (清)蔡元放&lt;/p&gt;</summary>
     
     
     
+    <category term="阅读" scheme="https://universepanda.github.io/categories/%E9%98%85%E8%AF%BB/"/>
     
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://universepanda.github.io/blog/hello-world/"/>
-    <id>https://universepanda.github.io/blog/hello-world/</id>
-    <published>2024-11-23T09:16:23.959Z</published>
-    <updated>2024-11-23T09:16:23.959Z</updated>
+    <title>论自由</title>
+    <link href="https://universepanda.github.io/blog/4/"/>
+    <id>https://universepanda.github.io/blog/4/</id>
+    <published>2024-10-27T15:00:00.000Z</published>
+    <updated>2024-11-24T14:49:11.606Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <content type="html"><![CDATA[<p>On Liberty</p><p>John Stuart Mill著  孟凡礼译</p><span id="more"></span><p>权力，自由，界限，群己权界，政府和个人的关系，这本书做出了很好的解释。某些观点即使今日依然适用。</p><hr><h3 id="Brief"><a href="#Brief" class="headerlink" title="Brief"></a>Brief</h3><p>The relationship about personal and the government.The definition of”Liberty” and some shining thinking still operates well in 21st century.</p>]]></content>
     
     
+    <summary type="html">&lt;p&gt;On Liberty&lt;/p&gt;
+&lt;p&gt;John Stuart Mill著  孟凡礼译&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="阅读" scheme="https://universepanda.github.io/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>严复传</title>
+    <link href="https://universepanda.github.io/blog/3/"/>
+    <id>https://universepanda.github.io/blog/3/</id>
+    <published>2024-10-26T15:00:00.000Z</published>
+    <updated>2024-11-24T14:37:28.532Z</updated>
+    
+    <content type="html"><![CDATA[<p>严复传</p><p>王樥著</p><span id="more"></span><p>由他人整理的严复生平传记。记录了严复的生平事迹和思想见识，作为著名的翻译家，严复在近代思想启蒙方面的贡献不可磨灭。</p><hr><h3 id="Brief"><a href="#Brief" class="headerlink" title="Brief"></a>Brief</h3><p>A biology of Yan Fu,contains his entire life and deep thinking.This book still have some bright ideas and give people instrction to future.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;严复传&lt;/p&gt;
+&lt;p&gt;王樥著&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="阅读" scheme="https://universepanda.github.io/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>丧钟为谁而鸣</title>
+    <link href="https://universepanda.github.io/blog/2/"/>
+    <id>https://universepanda.github.io/blog/2/</id>
+    <published>2024-10-25T15:00:00.000Z</published>
+    <updated>2024-11-24T14:47:51.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>For Whom The Bill Tolls</p><p>Ernest Hemingway著</p><span id="more"></span><p>以西班牙内战为蓝本创作的小说。丧钟为每一个独裁者和沉默的羔羊而鸣。</p><hr><h3 id="Brief"><a href="#Brief" class="headerlink" title="Brief"></a>Brief</h3><p>For Whom the Bell Tolls is a novel about the Spanish Civil War of the 1930s. It follows Robert Jordan, an American fighting for the leftist Republicans against the Fascist Nationalists. His goal is to blow up a bridge. Along the way, he finds love with Maria.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;For Whom The Bill Tolls&lt;/p&gt;
+&lt;p&gt;Ernest Hemingway著&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="阅读" scheme="https://universepanda.github.io/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一滴泪</title>
+    <link href="https://universepanda.github.io/blog/1/"/>
+    <id>https://universepanda.github.io/blog/1/</id>
+    <published>2024-10-24T15:00:00.000Z</published>
+    <updated>2024-11-24T14:26:03.995Z</updated>
+    
+    <content type="html"><![CDATA[<p>一滴泪 - 从肃反到文革的回忆</p><p>巫宁坤、李怡楷著</p><span id="more"></span><p>归国才子文革二十年的风雨历程,记录了动荡年代社会生活的各方面真实情况。</p><hr><h3 id="Brief"><a href="#Brief" class="headerlink" title="Brief"></a>Brief</h3><p>A sorrow and pain experience about a young professor have beard during the twenty years since he returned to his home country.The brilliance of family affection and humanity can always resonates with people.</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;一滴泪 - 从肃反到文革的回忆&lt;/p&gt;
+&lt;p&gt;巫宁坤、李怡楷著&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="阅读" scheme="https://universepanda.github.io/categories/%E9%98%85%E8%AF%BB/"/>
     
     
   </entry>
